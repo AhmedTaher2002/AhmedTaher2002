@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Taher
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Backend+Developer+%7C+ASP.NET+Core+)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Backend+Developer+%7C+ASP.NET+Core+)](https://git.io/typing-svg))
 
 🚀 **Backend Developer | ASP.NET Core | Entity Framework Core**
 
